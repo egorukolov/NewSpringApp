@@ -80,7 +80,6 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="parametrsLabel" destination="FcK-ej-JW2" id="YW6-OI-K1L"/>
                         <outlet property="springAnimationView" destination="IgK-K0-NA9" id="huF-kK-p4Z"/>
                     </connections>
                 </viewController>
